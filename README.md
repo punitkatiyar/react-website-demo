@@ -1,6 +1,6 @@
-# react-website-demo
+# React Website Buide For Hosting
 
-> npm run build
+## npm run build
 
 ```
 > website@0.0.0 build
